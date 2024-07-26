@@ -29,18 +29,20 @@ To view or modify this project locally:
    ```bash
    cd amazon-clone-homepage
    
-Usage
+## Usage
+
 Open index.html in any web browser to see the Amazon clone homepage in action. You can modify the HTML and CSS files to customize the design or add new features.
 
-Screenshots
+## Screenshots
+
 Include screenshots of your project here:
 
 
-Contributing
+## Contributing
+
 Feel free to fork this repository and submit pull requests. Please follow the coding standards and ensure that your changes do not break the existing functionality.
 
-License
-This project is licensed under the MIT License. See the LICENSE file for more details.
 
-Contact
-For any questions or feedback, you can reach me at your-email@example.com.
+## Contact
+
+For any questions or feedback, you can reach me at nandubhutharasi@gmail.com
