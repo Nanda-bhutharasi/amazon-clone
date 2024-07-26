@@ -37,6 +37,7 @@ Open index.html in any web browser to see the Amazon clone homepage in action. Y
 
 Include screenshots of your project here:
 
+![Screenshot 2024-07-27 003414](https://github.com/user-attachments/assets/1da08a6c-cc97-45ee-8f37-6ccdd4b12c69)
 
 ## Contributing
 
