@@ -39,10 +39,6 @@ Include screenshots of your project here:
 
 ![Screenshot 2024-07-27 003414](https://github.com/user-attachments/assets/1da08a6c-cc97-45ee-8f37-6ccdd4b12c69)
 
-## Contributing
-
-Feel free to fork this repository and submit pull requests. Please follow the coding standards and ensure that your changes do not break the existing functionality.
-
 
 ## Contact
 
